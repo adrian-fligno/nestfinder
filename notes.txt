@@ -19,4 +19,7 @@ Password: ojt.fligno
 
 ***problem
 set up:
-Brew install node - takes too long, solution (installing node.js)
+Brew install node - takes too long, solved via (installing node.js by packager)
+
+Xcode can't be installes on this device because macOS version 11.3 or later is required.
+
