@@ -1,0 +1,22 @@
+windows=Mac shortcut:
+To minimize = ctrl + cmd + f
+To find = cmd + space
+To show desktop = f11
+To paste = cmd + v
+Go>Computer (My Computer)= shift+cmd+C
+To alt+tab = cmd+tab
+
+Mac terminal:
+To go in from a folder = cd <destination>
+To go out from a folder = cd -
+
+Terms: windows=Mac 
+Task manager = activity monitor
+
+Fligno wifi:
+Username: ojt.fligno
+Password: ojt.fligno
+
+***problem
+set up:
+Brew install node - takes too long, solution (installing node.js)
